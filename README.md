@@ -9,7 +9,7 @@ This project replicates the restaurant listing interface with interactive filter
 
 ## 📸 Screenshot
 
-![Zomato UI Screenshot](./Images/screenshot.png)
+![Zomato UI Screenshot](./Images/Screenshot 2026-03-12 021831.png)
 <!-- Replace the path above with an actual screenshot image path -->
 
 ## ✨ Features
